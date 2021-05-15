@@ -1,0 +1,20 @@
+API
+html link with flask(python)
+nodemcu to nodemcu communication
+ 
+optimisation and Clustering 
+node and node communication , node and main server communication
+user interface
+
+
+
+Optical sensors
+carbon monoxide
+carbon dioxide
+Wind Speed Sensors
+Temperature and Humidity
+NO2
+O3
+
+
+dataset of sensors location and how it chnges with time 
